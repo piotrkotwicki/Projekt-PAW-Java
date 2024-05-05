@@ -1,2 +1,2 @@
 # Projekt-PAW-Java
-Projekt zaliczeniowy z Jaby
+Projekt zaliczeniowy z Javy
